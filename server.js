@@ -2,8 +2,6 @@ const express = require('express');
 const connectDB = require('./config/db');
 const path = require('');
 
-const app = express();
-
 //Connect Database
 const app = express();
 
