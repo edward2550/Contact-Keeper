@@ -1,2 +1,2 @@
 # Contact-Keeper
-Full stack MERN contact manager with React hooks, context & JWT authentication.
+Full stack MongoDB, Express, React, Node contact manager with React hooks, context & JWT authentication.
